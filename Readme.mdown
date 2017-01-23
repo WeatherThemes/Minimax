@@ -1,8 +1,8 @@
-# [Weather Themes](http://weatherthemes.com/) - [Elevate]
+# [Weather Themes](http://weatherthemes.com/) - [Minimax]
 
-(http://weatherthemes.com/themes/elevate/)
+(http://weatherthemes.com/themes/minimax/)
 
-[Elevate WordPress Theme](http://weatherthemes.com/themes/elevate/) is 
+[minimax WordPress Theme](http://weatherthemes.com/themes/minimax/) is 
 
 a web app landing page WordPress theme for [Wordpress]
 
@@ -14,7 +14,7 @@ a web app landing page WordPress theme for [Wordpress]
 
 * Clone the repo: `git clone 
 
-https://github.com/weatherthemes/Elevate.git`
+https://github.com/weatherthemes/Minimax.git`
 * Fork the repo
 
 ## Creator
